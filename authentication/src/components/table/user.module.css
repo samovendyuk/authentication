@@ -1,0 +1,12 @@
+.table,
+.table tbody,
+.table th,
+.table td,
+.table thead {
+  border: 1px solid #4e4c4c;
+  font-size: 18px;
+}
+
+td {
+  border: 1px solid #4e4c4c;
+}

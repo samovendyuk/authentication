@@ -1,0 +1,13 @@
+.icons {
+  padding: 100px 40px 20px 30px;
+}
+
+.icons button {
+  margin-left: 20px;
+  width: 120px;
+  font-size: 18px;
+}
+
+.icons i {
+  height: 24px;
+}
