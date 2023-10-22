@@ -1,0 +1,14 @@
+.check {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+  height: 100vh;
+  background-color: #333232;
+}
+
+.check h1 {
+  font-size: 40px;
+  color: #fff;
+}

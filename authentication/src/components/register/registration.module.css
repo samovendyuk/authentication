@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  height: 100vh;
+  background-color: #333232;
+}
+.container h1 {
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.forms input {
+  width: 20rem;
+  height: 3rem;
+  font-size: 24px;
+}
+
+form button {
+  width: 20rem;
+  height: 4rem;
+}
+
+.forms label {
+  font-size: 18px;
+  height: 1rem;
+  color: #333232;
+}

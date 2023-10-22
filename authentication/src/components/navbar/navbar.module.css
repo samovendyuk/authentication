@@ -1,0 +1,20 @@
+.nav {
+  background-color: #373636;
+  color: #fff;
+  height: 60px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.nav span {
+  margin-right: 20px;
+}
+
+.nav span:nth-child(2):hover {
+  cursor: pointer;
+  background-color: #6ea8fe;
+  background: -webkit-linear-gradient(#6aa1f5, #6ea8fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
